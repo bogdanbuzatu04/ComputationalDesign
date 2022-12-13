@@ -2,7 +2,7 @@
 
 entries:
 - title: sidebar
-  product: Computation Dedisng
+  product: Moving Rock
   version: 0.1
   folders:
 
@@ -19,33 +19,22 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Moving Bricks
+  - title: Home
+    url: /index.html
+    output: web, pdf
+  
+  - title: Planning
     output: web, pdf
     folderitems:
 
-    - title: Home
-      url: /index.html
-      output: web, pdf
-      type: homepage
-
-    - title: Page2
-      url: /mydoc_introduction.html
-      output: web, pdf
-
-    - title: Page3
-      url: /mydoc_supported_features.html
-      output: web, pdf
-
-  - title: MainPage2
-    output: web, pdf
-    folderitems:
-
-    - title: Page4
+    - title: Process
       url: /mydoc_release_notes_60.html
       output: web, pdf
 
-    - title: Page5
+    - title: Product
       url: /mydoc_release_notes_50.html
       output: web, pdf
+
+  
 
 # Copyright 2021 Google LLC
