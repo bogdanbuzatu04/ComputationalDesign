@@ -20,13 +20,9 @@ entries:
       type: frontmatter
 
   - title: Introduction
+    url: /p2_introduction.html
     output: web, pdf
-    folderitems:
-
-    - title: Overview
-      url: /p2_landing_page.html
-      output: web
-
+    
   - title: Simple Workflow
     output: web, pdf
     folderitems:
