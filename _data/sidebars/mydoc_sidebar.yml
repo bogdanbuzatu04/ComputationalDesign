@@ -19,11 +19,11 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: MainPage1
+  - title: Moving Bricks
     output: web, pdf
     folderitems:
 
-    - title: Page1
+    - title: Home
       url: /index.html
       output: web, pdf
       type: homepage
