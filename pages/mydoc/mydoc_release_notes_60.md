@@ -9,32 +9,16 @@ permalink: mydoc_release_notes_60.html
 folder: mydoc
 ---
 
-## Relative links
+## Lorem ipum
 
-You can now view the site offline rather than solely through the Jekyll preview server or deployed on a web server. The linking approach in both the sidebar and with inline links uses relative linking throughout.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vestibulum porttitor turpis, sed aliquam libero. Mauris luctus maximus tortor. Pellentesque rutrum eget diam sit amet hendrerit. In finibus dapibus leo sit amet commodo. Nullam id mauris porta, scelerisque justo ac, volutpat metus. Pellentesque nec dolor nulla. Fusce at massa vulputate sem interdum gravida sed in tellus. In hac habitasse platea dictumst. Nulla fringilla leo elementum, viverra urna sit amet, tristique ex. Aliquam id auctor velit, lobortis tincidunt odio. Etiam faucibus velit urna, sit amet porta sem tincidunt ac.
 
-## Subfolders for pages
+Suspendisse laoreet, tortor ac faucibus auctor, risus ligula egestas lacus, non accumsan turpis eros nec odio. Integer ultrices, leo in vestibulum consequat, turpis nunc consectetur est, ac varius neque turpis non sem. Nunc eget tempor enim, ac pharetra dolor. Mauris mollis eleifend tortor. Nam varius, quam non faucibus porttitor, lectus nulla eleifend justo, nec tincidunt sapien libero sit amet risus. Nam ligula orci, ullamcorper at sagittis id, venenatis at lectus. Integer iaculis enim ornare rutrum maximus. Integer quis luctus tortor, eget porta arcu.
 
-You can creates folders and subfolders for your pages, similar to how you can store posts in folders and subfolders. When Jekyll builds the site, all pages get pushed into the root directory as single html files (rather than being pushed inside folders, or remaining in subfolders). See [Pages][mydoc_pages] for more details.
+Vivamus vel nulla sit amet velit consequat blandit. Vivamus accumsan turpis nisi, vitae aliquam nibh blandit nec. Sed interdum, diam eget volutpat tempus, nunc enim molestie arcu, id malesuada diam nulla vitae tortor. Pellentesque rhoncus diam quis est sagittis pretium. Proin fermentum rutrum ex, luctus vehicula urna aliquam a. Etiam convallis ligula eu risus interdum eleifend eu nec neque. Praesent ultricies nulla nisl, a eleifend enim lacinia quis.
 
-## Alerts templates
+Nullam cursus aliquet arcu eget facilisis. Nullam tristique nec est a egestas. Aliquam sit amet aliquet urna, sit amet auctor ante. Vivamus at purus a augue pellentesque viverra in finibus sem. Aliquam lorem lorem, rhoncus ullamcorper mattis at, feugiat ut tortor. Duis eu aliquet lectus, quis aliquet lorem. Donec condimentum purus vitae erat iaculis scelerisque. Sed sodales metus id ligula egestas, luctus volutpat est venenatis. Sed a dignissim arcu, a rhoncus diam. Maecenas quis volutpat quam.
 
-You can use include templates for notes, tips, and warnings. These include templates make it easier to insert notes. If you make an error, you're immediately made aware since the site won't build. See [Alerts][mydoc_alerts] for more details.
-
-## Image templates
-
-Similar to alerts, images also have include templates. You can insert both regular images and inline images, such as images that are a button or icon. See [Images][mydoc_images] for more details.
-
-## Automated links using Markdown formatting
-
-Instead of using YAML references to handle links, I've switched to a Markdown reference style approach. A links.html file iterates through the sidebar files and formats the content in the Markdown reference. You then just use Markdown syntax for the links. See [Links][mydoc_hyperlinks] for more details.
-
-## Workflow maps
-
-If you want to display a workflow map for a process, you can do so by adding some properties in your frontmatter. The workflow map helps guide users through a process. Both simple and complex workflow maps are available. For more details, see [Workflow maps][mydoc_workflow_maps].
-
-## Upgrading
-
-If you want to upgrade from an earlier version of the theme, I recommend that you download the new theme and copy of your Markdown files into the new theme. You'll then need to make adjustments to your page frontmatter, to the sidebar table of contents, links, image references, and alert references. In short, there's no easy upgrade path. But all of this won't take too long if you don't have mountains of content.
+Cras venenatis sem orci, nec gravida nibh sollicitudin viverra. Etiam sem tellus, blandit sit amet iaculis quis, efficitur pretium nulla. Phasellus pretium enim sit amet tortor accumsan tincidunt. Morbi vitae scelerisque tortor, vitae dignissim est. Pellentesque tempus iaculis imperdiet. Vestibulum ornare pulvinar pellentesque. Duis laoreet metus sed nisl suscipit gravida. Suspendisse suscipit magna a diam porta, vitae efficitur augue rhoncus. Nullam quis ultrices massa. Sed ornare metus vel pretium iaculis. Pellentesque in libero vitae dolor lacinia sodales. Nullam vitae pulvinar est.
 
 {% include links.html %}

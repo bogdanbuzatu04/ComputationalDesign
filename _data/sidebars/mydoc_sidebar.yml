@@ -35,6 +35,31 @@ entries:
       url: /mydoc_release_notes_50.html
       output: web, pdf
 
+  - title: Configuring
+    output: web, pdf
+    folderitems:
+
+    - title: Process
+      url: /mydoc_release_notes_60.html
+      output: web, pdf
+
+    - title: Product
+      url: /mydoc_release_notes_50.html
+      output: web, pdf
+
+  - title: Massing
+    output: web, pdf
+    folderitems:
+
+    - title: Process
+      url: /mydoc_release_notes_60.html
+      output: web, pdf
+
+    - title: Product
+      url: /mydoc_release_notes_50.html
+      output: web, pdf
+
+
   
 
 # Copyright 2021 Google LLC
