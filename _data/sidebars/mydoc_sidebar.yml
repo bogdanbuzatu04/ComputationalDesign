@@ -56,7 +56,7 @@ entries:
       output: web, pdf
 
     - title: Product
-      url: /nassing_product.html
+      url: /massing_product.html
       output: web, pdf
 
   - title: Forming
