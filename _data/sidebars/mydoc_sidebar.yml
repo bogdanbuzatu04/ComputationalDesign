@@ -28,11 +28,11 @@ entries:
     folderitems:
 
     - title: Process
-      url: /mydoc_release_notes_60.html
+      url: /planning_process.html
       output: web, pdf
 
     - title: Product
-      url: /mydoc_release_notes_50.html
+      url: /planning_product.html
       output: web, pdf
 
   - title: Configuring
@@ -40,11 +40,11 @@ entries:
     folderitems:
 
     - title: Process
-      url: /mydoc_release_notes_60.html
+      url: /configuring_process.html
       output: web, pdf
 
     - title: Product
-      url: /mydoc_release_notes_50.html
+      url: /configuring_product.html
       output: web, pdf
 
   - title: Massing
@@ -52,12 +52,25 @@ entries:
     folderitems:
 
     - title: Process
-      url: /mydoc_release_notes_60.html
+      url: /massing_process.html
       output: web, pdf
 
     - title: Product
-      url: /mydoc_release_notes_50.html
+      url: /nassing_product.html
       output: web, pdf
+
+  - title: Forming
+    output: web, pdf
+    folderitems:
+
+    - title: Process
+      url: /forming_process.html
+      output: web, pdf
+
+    - title: Product
+      url: /forming_product.html
+      output: web, pdf
+
 
 
   
