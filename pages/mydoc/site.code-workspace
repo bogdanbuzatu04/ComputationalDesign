@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "pages",
+			"path": ".."
+		},
+		{
+			"path": "../images"
+		}
+	]
+}

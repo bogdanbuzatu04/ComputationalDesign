@@ -7,7 +7,8 @@ folder: mydoc
 
 # Adjecency matrix different functions
 The matrix table below shows the adjecency between different functions in the building. The values given to the adjecency matrix were based on personal experience as well as educated guesses. 
-We discovered we need a total of 5453 voxels to fit all facilities and houses comfortably.
+We discovered we need a total of 5453 voxels to fit all facilities and houses comfortably. The car park will be completely underground, the car park takes 1250 voxel, this means 4203 voxels must be above ground level.
+There is also a courtyard places in the building that gives space for 1296 m^2 of greenery. This couryard also functions as a wadi where water can be collected.
 
 |    | 0   | 1    | 2    | 3     | 4     | 5     | 6   | 7   | 8   | 9    | 10  | 11   | 12  | 13   | 14   | 15   | 16     | 17     | 18     | 19     | 20     | 21     | 22     |                                 |
 | -- | --- | ---- | ---- | ----- | ----- | ----- | --- | --- | --- | ---- | --- | ---- | --- | ---- | ---- | ---- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------------------------------- |

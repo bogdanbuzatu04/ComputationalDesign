@@ -5,8 +5,8 @@ permalink: planning_process.html
 folder: mydoc
 ---
 
-# Context analysis
-## Location analysis
+## Context analysis
+### Location analysis
 First we started with making an analysis of the location. Extra attention was given to nearby facilities for ederly. When a function was not within a reasonable walking distance (800 metres), it was included in our design. In the maps below, the position of the building in the city of The Hague is shown. This is divided in maps on a large scale (1:20.000), medium scale (1:5.000) and a small scale (1:3000).
 
 ![map1](/images/map1.jpg)
@@ -49,6 +49,8 @@ Other elements that will be looked at:
 - Interesting design
 - Adding greenery
 
+Within the building we will make a courtyard which can function as outdoor space for the residents and also is a meeting space where different functions are connected. This ensures that the people can find each other and gives oppurtunity for connection. The courtyard will be 1296 m^2 and will give room for greenery and water collection in the form of a wadi. Also the roofs will mostly be green to collect water and add to fulfill the requirement of placing 10.000 m^2.  
+
 ## Full list of spaces
 The specific layout of the following units is specified by the page 'Planning - product'.
 ### Facilities
@@ -71,9 +73,14 @@ The specific layout of the following units is specified by the page 'Planning - 
 - small public plaza
 
 ### Housing
-- Elderly housing
+- Elderly assisted housing
+- Elderly unassisted housing
 - Starter housing
-- Student housing
+- Student housing (2 person, 4 person and 8 person)
+
+The studenthousing comes in different sizes so the more noisy students can be seperated from the more quiet people. This can be done by place the 8-person housing further away from the starters and ederly. This is because we believe 2-person units create less noise then 4- and mostly 8-person units. 
+
+
 
 
 
