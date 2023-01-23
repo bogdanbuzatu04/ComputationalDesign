@@ -1,30 +1,59 @@
 ---
-title: Introduction
+title: Home
 sidebar: mydoc_sidebar
-permalink: mydoc_introduction.html
+permalink: mydoc_Home.html
 folder: mydoc
 ---
 
-## Overview
+# Welcome to the home of ***
 
-This site provides documentation, training, and other notes for the Jekyll Documentation theme. There's a lot of information about how to do a variety of things here, and it's not all unique to this theme. But by and large, understanding how to do things in Jekyll depends on how your theme is coded. As a result, these additional details are provided.
+Name origin:
 
-The instructions here are geared towards technical writers working on documentation. You may have a team of one or more technical writers working on documentation for multiple projects. You can use this same theme to author all of your documentation for each of your products. The theme is built to accommodate documentation for multiple products on the same site.
+This website was created for the course Computational Design studio, given in the minor Spatial Computing at the TU Delft, at the faculty of Architecture and the Built Environment. It is made to show the process of making a procedurally designed building with the help of SideFX Houdini. The goal of the excersize is to make a the optimal building for the surrounding and for the residents of the building itself. This is done with making different rules defining the criteria we find important to take into account. We are the fifth generation students working on this minor, but we are the first to use Sidefx Houdini. On this site, we will document the process behind our final product. The project is divided in four fases: Planning, Configuring, Massing and Forming. Finally we will present the final building and we will share our thoughts and comments for future students about this minor.
 
-## Survey of features
+<pre><code> 
+The following list of criteria was given:
+- 400 student units
+- 200 elderly units
+- 200 starter units
+Criteria:
+- All dwelling must have daylight
+- Housing >40m^2 at least 5m^2 outdoor space
+- Min 25m^2 own space per student but combined living is allowed
+- Elderly must vary between 50m^2 and 80m^2, assisted and unassisted living possibilities
+    - Assisted living needs a strong link with elements as care center
+    - All must be single-level and have >5m^2 outdoor space
+- Parking 1.2 car per dwelling and 1.33 bike per dwelling
+- 10 bike parking spots and 5 car parking spots per 100m^2 additional program
+- Total 10.000 m^2 greenery on the plot
+- Incorporate a system for rain harvesting
+- Have a degree of social control
 
-Some of the more prominent features of this theme include the following:
+- The design goal should be to:
+    - minimize the blocking of sunlight on the neighbouring buildings,
+    - minimize noise,
+    - maximize social integration,
+    - provide a balance between privacy and community,
+    - avoid wind pollution
+</code></pre>
 
-* Bootstrap framework
-* [Navgoco multi-level sidebar](http://www.komposta.net/article/navgoco) for table of contents
-* Ability to specify different sidebars for different products
-* Top navigation bar with drop-down menus
-* Notes, tips, and warning information notes
-* Tags for alternative navigation
-* Advanced landing page layouts from the [Modern Business theme](http://startbootstrap.com/template-overviews/modern-business/).
+The group working on this project consists of four bachelor students, coming from the TU Delft bachelors architecture and computer science.
 
-## Getting started
+## We are
+<pre><code> Jessica Monahan - Bouwkunde
+</code></pre>
+<pre><code> Pauline Hengst - Computer Science
+</code></pre>
+<pre><code> Bogdan Buzatu - Computer Science
+</code></pre>
+<pre><code> Noor van Everdingen - Bouwkunde
+</code></pre>
 
-To get started, see [Getting Started][index].
+## We were taught by
+<pre><code> ir. Hans Hoogenboom (TU Delft, Design Informatics)
+</code></pre>
+<pre><code> ir. Puck Flikweert (CGI Nederland)
+</code></pre>
 
-{% include links.html %}
+
+
