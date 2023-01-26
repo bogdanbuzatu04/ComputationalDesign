@@ -28,7 +28,7 @@ In Massing these criteria will be implemented with different methodologies. For 
 
 ### Voxelization
 {% include image.html file="../images/voxels.jpg" url="" caption="" %}
-![voxels](/images/voxels.jpg) 
+![voxels](../images/voxels.jpg) 
 
 ### Cutting out bikepath
 ### Cutting the envelope
