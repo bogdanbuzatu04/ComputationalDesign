@@ -27,6 +27,7 @@ In Massing these criteria will be implemented with different methodologies. For 
 - Daylight analysis
 
 ### Voxelization
+{% include image.html file:"voxels.jpg" url="" caption="" %}
 ![voxels](/images/voxels.jpg) 
 
 ### Cutting out bikepath
