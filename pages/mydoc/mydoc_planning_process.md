@@ -9,15 +9,15 @@ folder: mydoc
 ### Location analysis
 First we started with making an analysis of the location. Extra attention was given to nearby facilities for ederly. When a function was not within a reasonable walking distance (800 metres), it was included in our design. In the maps below, the position of the building in the city of The Hague is shown. This is divided in maps on a large scale (1:20.000), medium scale (1:5.000) and a small scale (1:3000).
 
-![map1](/images/map1.jpg)
+![map1](../images/map1.jpg)
 *Map of the location in the city of The Hague on a large scale (1:20.000)*
 
-![map2](/images/map2.jpg)
+![map2](../images/map2.jpg)
 *Map of the location in the city of The Hague on a medium scale (1:5.000)*
 
 As you can see on the pictures on a larger scale, the building is situated in the city of The Hague, a densly built area. There is not a lot of surrounding greenery, but there is water nearby. In front there is a busy road, which is likely to create a lot of sound, which is something that can be taken into account. Also there are a lot of surrounding building that need to be considered, for example when looking at the shadow casting.
 
-![map3](/images/map3.jpg)
+![map3](../images/map3.jpg)
 *Map of the location in the city of The Hague on a small scale (1:3.000)*
 
 

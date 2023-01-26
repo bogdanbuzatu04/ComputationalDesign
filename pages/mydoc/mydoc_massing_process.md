@@ -32,9 +32,9 @@ In Massing these criteria will be implemented with different methodologies. For 
 ### Cutting out bikepath
 ### Cutting the envelope
 ### Calculating the distances
-![distance](/images/distance.jpg)
+![distance](../images/distance.jpg)
 ### Shadow casting
-![shadowcast](/images/shadowcast.jpg)
+![shadowcast](../images/shadowcast.jpg)
 ### Daylight analysis
-![daylight](/images/daylight.jpg)
+![daylight](../images/daylight.jpg)
 

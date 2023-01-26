@@ -9,30 +9,30 @@ folder: mydoc
 The graph below shows the indoor connections between different facilities in the building. We made an overview of the entire building and also specified the layout of the different smaller facilities and the housing. 
 
 ## Large overview
-![large program](/images/program2.jpg)
+![large program](../images/program2.jpg)
 
 ## Facilities 
 ### Artgallery 
-![artgallery](/images/artgallery.jpg)
+![artgallery](../images/artgallery.jpg)
 ### Atelier
-![atelier](/images/atelier.jpg)
+![atelier](../images/atelier.jpg)
 ### Cafe
-![cafe](/images/cafe.jpg)
+![cafe](../images/cafe.jpg)
 ### Care center
-![carecenter](/images/carecenter.jpg)
+![carecenter](../images/carecenter.jpg)
 ### Commercial unit
-![commercial unit](/images/commercialunit.jpg)
+![commercial unit](../images/commercialunit.jpg)
 ### Music studio
-![music studio](/images/musicstudio.jpg)
+![music studio](../images/musicstudio.jpg)
 ### Restaurant
-![restaurant](/images/restaurant.jpg)
+![restaurant](../images/restaurant.jpg)
 ### Study space
-![study space](/images/studyspaces.jpg)
+![study space](../images/studyspaces.jpg)
 
 ## Housing
 ### Eldery
-![elderly](/images/elderly.jpg)
+![elderly](../images/elderly.jpg)
 ### Starters
-![starters](/images/starters.jpg)
+![starters](../images/starters.jpg)
 ### Students
-![Studenthouse](/images/studenthouse.jpg)
+![Studenthouse](../images/studenthouse.jpg)
