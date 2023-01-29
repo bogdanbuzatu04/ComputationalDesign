@@ -5,19 +5,25 @@ permalink: forming_product.html
 folder: mydoc
 ---
 ## Facade pictures
-![intropic](../images/image6.png) 
+![im0](../images/image6.png) 
 *Picture of final product*
-![intropic](../images/image1_000.png) 
+
+![im1](../images/image1_000.png) 
 *Picture of final product*
-![intropic](../images/image3.png) 
+
+![im2](../images/image3.png) 
 *Picture of final product*
-![intropic](../images/image4_000.png) 
+
+![im3](../images/image4_000.png) 
 *Picture of final product*
-![intropic](../images/image5.png) 
+
+![im4](../images/image5.png) 
 *Picture of final product*
-![intropic](../images/image9.png) 
+
+![im5](../images/image9.png) 
 *Picture of final product*
-![intropic](../images/image10.png) 
+
+![im6](../images/image10.png) 
 *Picture of final product*
 
 ## Video
