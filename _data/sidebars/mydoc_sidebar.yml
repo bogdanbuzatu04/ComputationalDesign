@@ -71,6 +71,11 @@ entries:
       url: /forming_product.html
       output: web, pdf
 
+    - title: Facade
+      url: /forming_facade.html
+      output: web, pdf
+
+
 
 
   
