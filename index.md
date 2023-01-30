@@ -8,7 +8,7 @@ permalink: index.html
 
 # Welcome to the home of the 'Stepping stone' 
 
-![intropic](_data/pages/images/Image10.jpg) 
+![intropic](/pages/images/Image10.jpg) 
 *Picture of final product*
 
 The Stepping Stone is a building that represents the progress of a project where one has to follow different steps to reach the end goal. In a staircase one has different steps and has to follow these steps in a specific order to reach the top floor. This is what it felt like to work on this project, since building procedurally takes a specific type of design process, where you can only continue when the last step is completed. The theme of the stepping stone is also recurring when looking at the facade, where moving bricks make the street more visually interesting. 
