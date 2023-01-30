@@ -2,8 +2,8 @@
 
 entries:
 - title: sidebar
-  product: Moving Rock
-  version: 0.1
+  product: Stepping stone
+  version: 0.2
   folders:
 
   - title:
@@ -22,6 +22,10 @@ entries:
   - title: Home
     url: /index.html
     output: web, pdf
+
+    - title: Home home
+      url: /home_home.html
+      output: web, pdf
   
   - title: Planning
     output: web, pdf
