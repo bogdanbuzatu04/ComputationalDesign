@@ -72,13 +72,18 @@ The specific layout of the following units is specified by the page 'Planning - 
 - shared working / study space
 - small public plaza
 
+We have chosen to add these facilities in the building because we believe these will add something to the neighborhood and/or are useful for the inhabitants. 
+The care center is mostly to assist the assisted living elderly, but can also be used by the unassisted elderly if needed. The general function communal space is a place for the student to fill in how they like. They could reserve it to throw parties and use it as a living room space to meet others. The laundry is mostly for the students but can also be used by budget/environmental friendly starters. The shared working/study spaces are meant for the students and starters to give them a nice working environment. Elderly are also invited to work on possible projects. The restaurant, cafe, shops, art gallery, atelier, and music studio are public functions. They are meant to boost the liveliness and creativity of the neighborhood and the residents.     
+Facilities like a supermarket or gym have not been chosen because these already exist in the neighborhood
+
+
 ### Housing
 - Elderly assisted housing
 - Elderly unassisted housing
 - Starter housing
 - Student housing (2 person, 4 person and 8 person)
 
-The studenthousing comes in different sizes so the more noisy students can be seperated from the more quiet people. This can be done by place the 8-person housing further away from the starters and ederly. This is because we believe 2-person units create less noise then 4- and mostly 8-person units. 
+The student housing is divided into 2-, 4-, and 8-person units. We have chosen this division to create a diverse selection for different types of students. Students looking for a laidback house or those wanting to live together can choose a 2-person unit, while students looking for the hustle and bustle of a lot of roommates can choose an 8 -person unit. To buffer the possible noise of the bigger student houses, the 2-person units can be placed as a buffer for the starters and elderly homes. 
 
 
 
