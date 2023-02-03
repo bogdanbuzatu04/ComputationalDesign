@@ -18,18 +18,54 @@ In Forming we established different criteria we find important to implement in o
 - Seperation public and private
 - Adding available facilities 
 
-In Massing these criteria will be implemented with different methodologies. For placing the interior functions we used agent-based modelling. These are the codes we used for our building:
-- Voxelization
-- Cutting out bikepath and garden
+In Massing these criteria will be implemented with different methodologies. For placing the interior functions we used agent-based modelling. These are the steps we used when creating our building:
+- Voxel initialization
+- Cutting out the plaza and garden
 - Cutting the envelope
 - Calculating the distances
 - Shadow casting
 - Daylight analysis
+- Determining weights of voxels
+- Determining seeds for growth agent
+- Placing functions using growth agents
+- Generating facades
+- Placing facades on the generated building
+
 
 ### Voxelization
+
+ 
+ We started the project by creating a point cloud. At the final stage of the process, this point cloud will have a voxel copied to each point, each point containing the information of a voxel. As such the point cloud is henceforth reffered to as the voxelcloud.
+
+ The point cloud is created using a grid, with a cell size equal to the voxel size, from which the centroids are extracted. This grid is combined with an OBJ file representing the buildings surroundings; the grid is translatred to the parcel location, and bounded to the volume that exists above the parcel. This results in a voxel cloud representing the maximum volume that the building can use, as shown below. The process is also summarized in a flowchart.
+
+ !!! TODO INSERT IMAGES OF INITIAL VOXEL CLOUD !!!
+
+ <!--- This is the flowchart: -->
 ![voxels](../images/voxels.jpg) 
 
-### Cutting out bikepath
+### Cutting out the Garden and bikepath
+
+#### Garden placement
+
+The first step of shaping the envelope is the placement of the communal garden. This is a space intended for the residents of the building, so it is desired to be placed near the center of the mass of the existing voxel cloud. 
+
+We achieve this in houdini by starting with a grid at the desired location of the garden, of the desired size. We then perfom a ploy extrude with a negative index to produce the volume above the garden plane, such that more points are removed per level above the ground floor. After this, the points from the voxel cloud are grouped dependen on if they located within the volume. The group of points within the volume is then traversed; those on the ground floor are marked as being in the garden, and the rest are removed from the voxel cloud. Notably, the points under the garden are also removed, this is done to grant the trees in the garden space to grow thier root systems. 
+
+This process is also shown in the following flowchart:
+
+!!!  TODO INSERT FLOWCHART !!!
+
+#### Plaza cutout
+
+After placing the garden, it was decided to also place a plaza. It was desired for the plaza to be placed at a point were commuters are likely to walk through the building, so it was placed where currently a road exists in real life.
+
+This was achieved by creating a curve object in Houdini to represent the road along which the plaza is to be cut out of the voxel cloud. From here we use an attribute wrangle node to: input the deisred width and height  of the cutout using sliders, remove points from the voxel cloud that are within 'width' horizontal distance  and 'height' vertical  distance from points on the road_curve. Points that hold for both these conditions and are on the ground floor are marked as being part of the plaza. 
+
+This process is also shown in the following flow chart. 
+
+!!! TODO insert flow chart !!!
+
 ### Cutting the envelope
 ### Calculating the distances
 ![distance](../images/distance.jpg)
@@ -37,6 +73,8 @@ In Massing these criteria will be implemented with different methodologies. For 
 ![shadowcast](../images/shadowcast.jpg)
 ### Daylight analysis
 ![daylight](../images/daylight.jpg)
+
+### Weighting points
 
 ### Growth seed placement
 
@@ -75,5 +113,6 @@ The growth agent works as shown in the following flowchart:
 For futher implementation details consult : [Oasis Documentation](https://github.com/Pirouz-Nourian/Spatial_Computing_Design_Studio19) 
 
 
+### Generating facades
 
-
+### Placing facades on the generated building
