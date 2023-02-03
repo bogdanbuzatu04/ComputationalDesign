@@ -19,6 +19,7 @@ We mentioned a few pitfalls in the presentation; here we elaborate more on them.
 - **Time constraint** By the end of the project, we ound ourselves in a relative time crunch. There were many things we would have liked to do but didnt have the time for. Some of these aer listed ni the next section.
 - **Github** Working with git and github pages was another new tool for the majority of the group, which we struggled to use effectively untill the end of the project. We feel this has greatly affected the quality of the website, and was in retrospect not the best method of documentation.
 - **Building depth algorithm :** At the start of our implementation phase, we wanted to create a function that would ensure that the building would have a maximum depth (distance to windows) per level, which would make certain that each voxel in the building would get enough light dependant on the level each voxel was on. This function would modify the given voxel cloud such that the top levels would have a lower maximum depth than the bottom levels, improving the reach of natural light in the building. Creating this function was attempted using mainly VEX, and proved very difficult. This was in part due to inexperience with VEX, and creating a function that would remove points without leaving floating masses nor internal holes in the building (which do not improve sunlight) proved not feasible after many hours spent. - Pauline
+- **Facade placing:** When the rotating facade was meade, came the challenge of the application of the facade on the voxelcloud. First we tried to place it on the facade, this took a lot of time and it created a repeating pattern all around the building. This effect was not what we wanted. So then we tried to manually add the facades in Rhino. This was also very time consuming. After 8 hours only 15% of the building was done. Then we tried it again with static facades in Houdini. Also a randomizer was used to apply different types of facades. Then the file had to be exported so the materials could be edited. This resulted in a lot of group forming and struggling a bit with the Houdini license before it could be uploaded properly.
 
 
 ## What would we have liked to improve given more time?
@@ -37,16 +38,16 @@ Here is a short overview of what each person in the team worked on per week of t
 
 | week | Bogdan | Jessica | Noor | Pauline                                                                  |
 |------|--------|---------|------|--------------------------------------------------------------------------|
-| 1    |        |         |      | Design & familiarizing with houdini                                      |
-| 2    |        |         |      | Initializeing voxel cloud                                                |
-| 3    |        |         |      | Plaza cut out                                                            |
-| 4    |        |         |      | Attempted building depth algorithm                                       |
-| 5    |        |         |      | Preparing midterm presentation                                           |
-| 6    |        |         |      | Exam Bk7084                                                              |
-| 7    |        |         |      | Placing movng facade on building (pt 1)                                  |
-| 8    |        |         |      | Growth agent                                                             |
-| 9    |        |         |      | Merging massing function with existing houdini pipeline & seed placement |
-| 10   |        |         |      | Preparing for final presentation, writing report and documentation       |
+| 1    |        |         |Design & familiarizing with houdini      | Design & familiarizing with houdini                                      |
+| 2    |        |         |Research surrounding areas      | Initializeing voxel cloud                                                |
+| 3    |        |         |Working on brick moving facade| Plaza cut out                                                            |
+| 4    |        |         |Making brick moving facade| Attempted building depth algorithm                                       |
+| 5    |        |         |Preparing midterm presentation       | Preparing midterm presentation                                           |
+| 6    |        |         |Exam Bk7084      | Exam Bk7084                                                              |
+| 7    |        |         |Working on website       | Placing moving facade on building (pt 1)                                  |
+| 8    |        |         |Working on website      | Growth agent                                                             |
+| 9    |        |         |Working on exporting houdini and twinmotion     | Merging massing function with existing houdini pipeline & seed placement |
+| 10   |        |         |Working on poster, presentation, documentation      | Preparing for final presentation, writing report and documentation       |
 
 
 
