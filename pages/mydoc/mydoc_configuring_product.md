@@ -70,3 +70,47 @@ There is also a courtyard places in the building that gives space for 1296 m^2 o
 | Total                           | \-       | \-       | 16812     | 1868       | \-              | no      | \-             | \-    | \-   |
 | Facilities + housing together                    | \-       | \-       | 32418     | 5453       | \-              |         | \-             | \-    | \-   |
 
+
+## Distance calculations
+
+<figure>
+    <img src="../images/bikedistance.jpg"
+         alt="bike distance">
+    <figcaption><i>Bike distance to voxels<i></figcaption>
+</figure>
+
+<figure>
+    <img src="../images/publictransportdistance.jpg"
+         alt="ov">
+    <figcaption><i>Public transport distance to voxels<i></figcaption>
+</figure>
+
+<figure>
+    <img src="../images/pedestriandistance.jpg"
+         alt="pedestrian distance">
+    <figcaption><i>Pedestrian distance to voxels<i></figcaption>
+</figure>
+
+<figure>
+    <img src="../images/bikedistance.jpg"
+         alt="car distance">
+    <figcaption><i>Car distance to voxels<i></figcaption>
+</figure>
+
+<figure>
+    <img src="../images/entrancedistances.jpg"
+         alt="entrance distance">
+    <figcaption><i>Entrance distance to voxels<i></figcaption>
+</figure>
+
+<figure>
+    <img src="../images/facade.jpg"
+         alt="facade distance">
+    <figcaption><i>Facade distance to voxels<i></figcaption>
+</figure>
+
+<figure>
+    <img src="../images/groundfloordistance.jpg"
+         alt="gf">
+    <figcaption><i>Ground floor distance to voxels<i></figcaption>
+</figure>
