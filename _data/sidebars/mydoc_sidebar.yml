@@ -2,8 +2,8 @@
 
 entries:
 - title: sidebar
-  product: Moving Rocks
-  version: 0.1
+  product: STEPPING STONE
+  version: 1.0
   folders:
 
   - title:
@@ -23,14 +23,7 @@ entries:
     url: /index.html
     output: web, pdf
 
-  - title: Introduction
-    output: web, pdf
-    forderitems:
-
-    - title: Welcome
-      url: /introduction_welcome.html
-      output: web, pdf
-  
+    
   - title: Planning
     output: web, pdf
     folderitems:
@@ -79,11 +72,15 @@ entries:
       url: /forming_product.html
       output: web, pdf
 
-    - title: Facade
-      url: /forming_facade.html
+  - title: Reflections
+    output: web, pdf
+    folderitems:
+
+    - title: Reflections of the Project
+      url: /reflections.html
       output: web, pdf
 
-
+  
 
 
   
