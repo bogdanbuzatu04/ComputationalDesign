@@ -1,11 +1,12 @@
-# Project reflections & pitfalls
-
 ---
 title: Reflections & Pitfalls
 sidebar: mydoc_sidebar
 permalink: reflections.html
 folder: mydoc
 ---
+
+# Project reflections & pitfalls
+
 
 Our team has undoubtedly learn alot during the course of this project. This page elaborates on problems that we encountered which are not represented in the final product.
 
@@ -36,18 +37,19 @@ We mentioned a few pitfalls in the presentation; here we elaborate more on them.
 
 Here is a short overview of what each person in the team worked on per week of the project (besides following lectures etc). 
 
-| week | Bogdan | Jessica | Noor | Pauline                                                                  |
-|------|--------|---------|------|--------------------------------------------------------------------------|
-| 1    |        |         |Design & familiarizing with houdini      | Design & familiarizing with houdini                                      |
-| 2    |        |         |Research surrounding areas      | Initializeing voxel cloud                                                |
-| 3    |        |         |Working on brick moving facade| Plaza cut out                                                            |
-| 4    |        |         |Making brick moving facade| Attempted building depth algorithm                                       |
-| 5    |        |         |Preparing midterm presentation       | Preparing midterm presentation                                           |
-| 6    |        |         |Exam Bk7084      | Exam Bk7084                                                              |
-| 7    |        |         |Working on website       | Placing moving facade on building (pt 1)                                  |
-| 8    |        |         |Working on website      | Growth agent                                                             |
-| 9    |        |         |Working on exporting houdini and twinmotion     | Merging massing function with existing houdini pipeline & seed placement |
-| 10   |        |         |Working on poster, presentation, documentation      | Preparing for final presentation, writing report and documentation       |
+| week | Bogdan                                                             | Jessica | Noor                                           | Pauline                                                                  |
+|:----:|:------------------------------------------------------------------:|:-------:|:----------------------------------------------:|:------------------------------------------------------------------------:|
+| 1    | Design & familiarizing with houdini                                |         | Design & familiarizing with houdini            | Design & familiarizing with houdini                                      |
+| 2    | Design & familiarizing with houdini                                |         | Research surrounding areas                     | Initializeing voxel cloud                                                |
+| 3    | Familiarizing with houdini                                         |         | Working on brick moving facade                 | Plaza cut out                                                            |
+| 4    | Sun analysis                                                       |         | Making brick moving facade                     | Attempted building depth algorithm                                       |
+| 5    | Preparing midterm presentation                                     |         | Preparing midterm presentation                 | Preparing midterm presentation                                           |
+| 6    | Exam Bk7084                                                        |         | Exam Bk7084                                    | Exam Bk7084                                                              |
+| 7    | Fixing Sun Analysis                                                |         | Working on website                             | Placing moving facade on building (pt 1)                                 |
+| 8    | Weights calcutation and brainstorm                                 |         | Working on website                             | Growth agent                                                             |
+| 9    | Weights calcutation and merging with other parts of the project    |         | Working on exporting houdini and twinmotion    | Merging massing function with existing houdini pipeline & seed placement |
+| 10   | Preparing for final presentation, writing report and documentation |         | Working on poster, presentation, documentation | Preparing for final presentation, writing report and documentation       |
+
 
 
 

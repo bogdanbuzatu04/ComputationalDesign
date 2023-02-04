@@ -73,44 +73,33 @@ There is also a courtyard places in the building that gives space for 1296 m^2 o
 
 ## Distance calculations
 
-<figure>
-    <img src="../images/bikedistance.jpg"
-         alt="bike distance">
-    <figcaption><i>Bike distance to voxels<i></figcaption>
-</figure>
+![bike distance](../images/bikedistance.jpg)
+*Bike distance to voxels*
 
-<figure>
-    <img src="../images/publictransportdistance.jpg"
-         alt="ov">
-    <figcaption><i>Public transport distance to voxels<i></figcaption>
-</figure>
 
-<figure>
-    <img src="../images/pedestriandistance.jpg"
-         alt="pedestrian distance">
-    <figcaption><i>Pedestrian distance to voxels<i></figcaption>
-</figure>
+![ov](../images/publictransportdistance.jpg)
+*Public transport distance to voxels*
 
-<figure>
-    <img src="../images/bikedistance.jpg"
-         alt="car distance">
-    <figcaption><i>Car distance to voxels<i></figcaption>
-</figure>
 
-<figure>
-    <img src="../images/entrancedistances.jpg"
-         alt="entrance distance">
-    <figcaption><i>Entrance distance to voxels<i></figcaption>
-</figure>
+![pedestrian distance](../images/pedestriandistance.jpg)
+*Pedestrian distance to voxels*
 
-<figure>
-    <img src="../images/facade.jpg"
-         alt="facade distance">
-    <figcaption><i>Facade distance to voxels<i></figcaption>
-</figure>
 
-<figure>
-    <img src="../images/groundfloordistance.jpg"
-         alt="gf">
-    <figcaption><i>Ground floor distance to voxels<i></figcaption>
-</figure>
+
+![car distance](../images/bikedistance.jpg)
+*Car distance to voxels*
+
+
+![entrance distance](../images/entrancedistances.jpg)
+*Entrance distance to voxels*
+
+
+
+![facade distance](../images/facade.jpg)
+*Facade distance to voxels*
+
+
+
+![gf](../images/groundfloordistance.jpg)
+*Ground floor distance to voxels*
+
