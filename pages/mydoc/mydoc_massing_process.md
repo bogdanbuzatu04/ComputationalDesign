@@ -111,8 +111,3 @@ The growth agent works as shown in the following flowchart:
 !!TODO insert IMAGE!!
 
 For futher implementation details consult : [Oasis Documentation](https://github.com/Pirouz-Nourian/Spatial_Computing_Design_Studio19) 
-
-
-### Generating facades
-
-### Placing facades on the generated building
