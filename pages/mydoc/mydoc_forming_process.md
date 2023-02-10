@@ -126,12 +126,6 @@ The roofs and undersides are all 3x3 boxes. Roof tiles with different edges have
 ## Facade showcase
 ![facadeshowcase](../images/facadesshowcase.jpg)
 *Examples of what the facade would look like put together*
-<figure>
-    <img src="../images/facadesshowcase.jpg"
-         alt="facadeshowcase">
-    <figcaption><i> Examples of what the facade would look like put together <i></figcaption>
-</figure>
-
 
 ## Placing the facade
 
