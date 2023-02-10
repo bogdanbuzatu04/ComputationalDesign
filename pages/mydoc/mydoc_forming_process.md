@@ -137,7 +137,7 @@ The facade is placed automatically. This means that if the voxel input is change
 For the north, west, south and east facades the same way of tile placement is used, however the facades have to be rotated respectively 0, 90, 180, and 270 degrees. The detailed placement is explained further below.
 
 
-![facadesplacement1](../images/facadesplac.gif)
+![facadesplacement1](../images/facadeplac.gif)
 *GIF of the facade placement*
 
 For the detailed placement of the facade, one of the eight facade tiles is placed on the centroids of the exterior primitives. First the entrance facades are placed with data from the entrance placement. Then the remaining ground floor points are selected to add the public ground floor facade to. Then points are randomly selected to place the remaining 6 facade tiles.
