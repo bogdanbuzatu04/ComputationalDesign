@@ -7,8 +7,8 @@ folder: mydoc
 In Planning different types of criteria were established to be implemented in our project. In Configuring different types of data is gathered to create a voxel envelope that will be used for the massing of a building that follows the established criteria. The voxel envelope will be shaped through different measures and data will be integrated in the points of the voxel cloud. This happens in the following steps: 
 - Adjacency of different functions
 - Voxel size 
-- Shadow casting
-- Daylight analysis
+- Shadow casting (explained in massing)
+- Daylight analysis (explained in massing)
 - Calculating the distance values for each point
   
 
@@ -27,12 +27,7 @@ For this project we opted for a voxelsize of 3x3x3 meters. This is because we fo
 ![kamer](../images/kamer.jpg)
 
 
-### Shadow casting
-![shadowcast](../images/shadowcast.jpg)
-### Daylight analysis
-![daylight](../images/daylight.jpg)
-
-### Calculating the distance values for each point
+## Calculating the distance values for each point
 In this section the distances that are relevant for the function placement are calculated. Some calculations are only used for the placement of the pedestrian, bike and car entrances, these are:
 - distance to pedestrian roads
 - distance to bike roads

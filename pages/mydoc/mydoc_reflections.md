@@ -37,25 +37,25 @@ We mentioned a few pitfalls in the presentation; here we elaborate more on them.
 
 Here is a short overview of what each person in the team worked on per week of the project (besides following lectures etc). 
 
-| week | Bogdan                                                             | Jessica | Noor                                           | Pauline                                                                  |
-|:----:|:------------------------------------------------------------------:|:-------:|:----------------------------------------------:|:------------------------------------------------------------------------:|
-| 1    | Design & familiarizing with houdini                                |         | Design & familiarizing with houdini            | Design & familiarizing with houdini                                      |
-| 2    | Design & familiarizing with houdini                                |         | Research surrounding areas                     | Initializeing voxel cloud                                                |
-| 3    | Familiarizing with houdini                                         |         | Working on brick moving facade                 | Plaza cut out                                                            |
-| 4    | Sun analysis                                                       |         | Making brick moving facade                     | Attempted building depth algorithm                                       |
-| 5    | Preparing midterm presentation                                     |         | Preparing midterm presentation                 | Preparing midterm presentation                                           |
-| 6    | Exam Bk7084                                                        |         | Exam Bk7084                                    | Exam Bk7084                                                              |
-| 7    | Fixing Sun Analysis                                                |         | Working on website                             | Placing moving facade on building (pt 1)                                 |
-| 8    | Weights calcutation and brainstorm                                 |         | Working on website                             | Growth agent                                                             |
-| 9    | Weights calcutation and merging with other parts of the project    |         | Working on exporting houdini and twinmotion    | Merging massing function with existing houdini pipeline & seed placement |
-| 10   | Preparing for final presentation, writing report and documentation |         | Working on poster, presentation, documentation | Preparing for final presentation, writing report and documentation       |
+| week | Bogdan                                                             | Jessica                                                                               | Noor                                           | Pauline                                                                  |
+|:----:|:------------------------------------------------------------------:|:--------------------------------------------------------------------------------------:|:----------------------------------------------:|:------------------------------------------------------------------------:|
+| 1    | Design & familiarizing with houdini                                | Design, familiarizing with Houdini, site visit, POR                                    | Design & familiarizing with houdini            | Design & familiarizing with houdini                                      |
+| 2    | Design & familiarizing with houdini                                | Starting adjacancy matrix, network per function and metro network with group           | Research surrounding areas                     | Initializeing voxel cloud                                                |
+| 3    | Familiarizing with houdini                                         | Looked into importing location with GIS & CSV, discussed analysis to do with group     | Working on brick moving facade                 | Plaza cut out                                                            |
+| 4    | Sun analysis                                                       | Collected analysis to do with group, made the distance calculations                    | Making brick moving facade                     | Attempted building depth algorithm                                       |
+| 5    | Preparing midterm presentation                                     | Preparing midterm presentation & documented distance calculations                      | Preparing midterm presentation                 | Preparing midterm presentation                                           |
+| 6    | Exam Bk7084                                                        | Exam Bk7084                                                                            | Exam Bk7084                                    | Exam Bk7084                                                              |
+| 7    | Fixing Sun Analysis                                                | Finished & imporved distance calcs, made courtyard cutout, fixed voxel sizes           | Working on website                             | Placing moving facade on building (pt 1)                                 |
+| 8    | Weights calcutation and brainstorm                                 | Made lists of weights for weight calc. organized Houdini file, Started on facade tiles | Working on website                             | Growth agent                                                             |
+| 9    | Weights calcutation and merging with other parts of the project    | Finished facade tiles and placement, added code to entrance placement, fixed export    | Working on exporting houdini and twinmotion    | Merging massing function with existing houdini pipeline & seed placement |
+| 10   | Preparing for final presentation, writing report and documentation | Preparing for final presentation, writing report and documentation                     | Working on poster, presentation, documentation | Preparing for final presentation, writing report and documentation       |
 
 
 
 
 ## Placing facades fiasco
 
-Arguably one of the most difficult problems we encountered was placing the facades we created onto the generated building. We had a total of 3 attempts at this (attempted by Pauline, Noor, and Jessica), of which the 3rd proved to be succesful. This section explains the process.
+Arguably one of the most difficult problems we encountered was placing the facades we created onto the generated building. We had a total of 3 attempts at this (attempted by Pauline, Noor, and Jessica), of which the 3rd proved to be succesful. This section explains the process, the third method can be found in Forming.
 
 ### Placing facades Part 1 : Normal generation
 

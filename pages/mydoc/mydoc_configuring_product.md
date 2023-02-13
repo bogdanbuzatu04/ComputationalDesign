@@ -73,33 +73,31 @@ There is also a courtyard places in the building that gives space for 1296 m^2 o
 
 ## Distance calculations
 
-![bike distance](../images/bikedistance.jpg)
+![bike distance](../images/bikedistance.jpg) 
+
 *Bike distance to voxels*
 
+![ov](../images/publictransportdistance.jpg) 
 
-![ov](../images/publictransportdistance.jpg)
-*Public transport distance to voxels*
+*public transport distance to voxels*
 
+![pedestrian](../images/pedestriandistance.jpg) 
 
-![pedestrian distance](../images/pedestriandistance.jpg)
 *Pedestrian distance to voxels*
 
+![groundfloor](../images/groundfloordistance.jpg) 
 
+*Groundfloor distance to voxels*
 
-![car distance](../images/bikedistance.jpg)
-*Car distance to voxels*
+![facade](../images/facade.jpg) 
 
-
-![entrance distance](../images/entrancedistances.jpg)
-*Entrance distance to voxels*
-
-
-
-![facade distance](../images/facade.jpg)
 *Facade distance to voxels*
 
+![entrance](../images/entrancedistances.jpg) 
 
+*Entrance distance to voxels*
 
-![gf](../images/groundfloordistance.jpg)
-*Ground floor distance to voxels*
+![car](../images/cardistance.jpg) 
+
+*Car distance to voxels*
 

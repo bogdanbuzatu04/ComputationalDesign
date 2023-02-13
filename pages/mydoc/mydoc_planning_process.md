@@ -40,7 +40,7 @@ Since the residents are in different fases of their lives, they will need differ
 The building must nicely fit in the neighboorhoud and also take the surrounding buildings into account. This is why the following analysis will be excecuted:
 - Sun casting
 - Shadow casting
-- Keeping bike path clear
+- Creating a plaza
 - Agent-based function placement using distance optimization per function
 
 Other elements that will be looked at:

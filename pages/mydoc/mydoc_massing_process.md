@@ -6,11 +6,10 @@ folder: mydoc
 ---
 
 # Process of massing
-In Forming we established different criteria we find important to implement in our project. This is a recap of the matters we wanted to take into account. 
+In Massing the data gathered in Configuring will be used and the different criteria elaborated in Planning will be followed. The criteria are as following:
 
-- Sun casting
 - Shadow casting
-- Keeping bike path clear
+- Creating a plaza
 - Agent-based function placement using distance optimization per function
 - Comfortable housing
 - Giving natural light 
@@ -31,12 +30,12 @@ In Massing these criteria will be implemented with different methodologies. For 
 
  The point cloud is created using a grid, with a cell size equal to the voxel size, from which the centroids are extracted. This grid is combined with an OBJ file representing the buildings surroundings; the grid is translatred to the parcel location, and bounded to the volume that exists above the parcel. This results in a voxel cloud representing the maximum volume that the building can use, as shown below. The process is also summarized in a flowchart.
 
-![voxelss](../images/voxelized-in-surroundings.png) 
+![voxelss](../images/voxelized-in-surroundings.jpg) 
 
  <!--- This is the flowchart: -->
 ![voxels](../images/voxels.jpg) 
 
-### Cutting out the Garden and bikepath
+### Cutting out the Garden and Plaza
 
 #### Garden placement
 
@@ -52,12 +51,11 @@ This was achieved by creating a curve object in Houdini to represent the road al
 
 
 After performing these operations, this is the result:
-![garden](../images/garden-plaza-1.png)
-![plaza](../images/garden-plaza-2.png)
+![garden](../images/garden-plaza-1.jpg)
+![plaza](../images/garden-plaza-2.jpg)
 
 ### Cutting the envelope
-### Calculating the distances
-![distance](../images/distance.jpg)
+
 ### Sun Analysis 
 For the sun analysis, we have used the material given during the Houdini Workshop regarding Sun Analysis. The geo node structure used for Shadow Casting, Daylight Analysis and Sunlight Analysis is similiar to the ones mentioned and created in the following project of BK7083 (Reference: https://github.com/Pirouz-Nourian/Spatial_Computing_Design_Studio19/tree/master/Oasis )
 
@@ -202,7 +200,3 @@ The result of applying the growth function with the seeds is shown in the follow
 
 ![growth-gif](../images/voxelgrowth.gif) 
 ![functs-gif](../images/functions-showcase.gif) 
-
-### Generating facades
-
-### Placing facades on the generated building
